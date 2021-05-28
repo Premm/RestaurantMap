@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restaurant Map</string>
+    <string name="new_note" />
+    <string name="add_a_new_place">Add A New Place</string>
+    <string name="show_all_on_map">Show All On Map</string>
+    <string name="current_location">Get Current Location</string>
+    <string name="show_on_map">Show On Map</string>
+    <string name="save_place">Save Location</string>
+    <string name="place_name">Place Name</string>
+    <string name="location">Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
